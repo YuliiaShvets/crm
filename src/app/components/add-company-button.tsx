@@ -1,6 +1,6 @@
-"use client";
+'use client';
 
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import dynamic from 'next/dynamic';
 import Button from '@/app/components/button';
 
